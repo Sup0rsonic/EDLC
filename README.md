@@ -1,5 +1,6 @@
 EDLC
 ----
+![EDLC Banner](edlc.png)
 ________________________________________
 Give your own limpets a fancy cat noise.   
 ________________________________________
