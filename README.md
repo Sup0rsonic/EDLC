@@ -26,7 +26,7 @@ ANY help is welcomed, and feel free to submit your own cats' sound sample to 1nt
 > A: By reading your game logs, the program provides you a totally not realistic cockpit cat meowing feedback of limpets.  
 
 > Q: How do you implement it? Was there any cat hurt in the process?   
-> A: We throws a cat into your limpet controller. As long as your ship remains intact, it will be safe.  
+> A: We throws a cat into your limpets. In case the limpet blows up or crashes or you just left or expired or failed, the cat will back to your ship by a jetpack with portable warp drive.
 
 > Q: How can I run it?  
 > A: Start the file before the game start or after the game start, as long as the game and the program is up and running, it will work.
